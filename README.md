@@ -19,7 +19,7 @@ Ce site à été réalisé en 4 "sprints" d'une semaine. La première semaine, d
 
 Le sprint 0 s'est donc fait tous ensemble, une équipe de 5 apprentis développeurs (3 front avec une spé React, et 2 back avec une spé Symphony). 
 
-Le Sprint 1 a été consacré à l'intégration "statique" en React de toutes les pages de notre projet.
+Le Sprint 1 a été consacré à l'intégration "statique" en React de toutes les pages de notre projet, avec l'appui de la bibliothèque Material UI.
 
 Durant le sprint 2, il fallait dynamiser le site avec les données récupérées des différents end-points d'API que l'équipe du back nous fournissait.
 
